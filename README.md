@@ -15,5 +15,5 @@ do curso de versionamento de código Git GitHub da  [Digital Innovation One](htt
  ```
 
 ## Referencias 
-- `📖` [Digital Innovation One] ().
+- `📖` [ Digital Innovation One ] ().
 
